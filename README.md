@@ -3,7 +3,9 @@ React recipe search is a web application based on  React app that shows recipes 
 
 
 <h2>Demo</h2>
-![](link ot the gif)
+
+![2021-04-16 11-21-05](https://user-images.githubusercontent.com/56751927/116270925-2ce76b80-a79d-11eb-8039-587b4554804a.gif)
+
 
 <h2>API</h2>
 
