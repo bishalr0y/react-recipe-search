@@ -6,7 +6,8 @@ React recipe search is a web application based on  React app that shows recipes 
 
 ![ezgif-3-e22d59716417](https://user-images.githubusercontent.com/56751927/116272470-8d2add00-a79e-11eb-8e89-01bb6609ac63.gif)
 
-### How to set the project locally
+
+<h2>How to set the project locally</h2>
 
 * Open the terminal and then type 
  ```
