@@ -1,8 +1,8 @@
-<h2>React Recipe Search App</h2>
+<h2>React Recipe Search App 🔎</h2>
 React recipe search is a web application based on  React app that shows recipes 🥓 based on searched food 🍕 keywords. Write the food item and hit the search button, and BOOM!!! 💥 you found its recipe.<br>
 
 
-<h2>Demo</h2>
+<h2>Demo ✨</h2>
 
 ![ezgif-3-e22d59716417](https://user-images.githubusercontent.com/56751927/116272470-8d2add00-a79e-11eb-8e89-01bb6609ac63.gif)
 
@@ -37,12 +37,12 @@ REACT_APP_API_KEY=<YOUR_API_KEY>
  ```
   
 
-<h2>API</h2>
+<h2>API 🚀</h2>
 
 API used : https://edamam.com 
 
 
-### Project Structure 
+### Project Structure 🕸
 ```
 react-recipe-search
 │   
